@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --nude-bg: #f7f1eb;
+  --nude-card: #fffaf5;
+  --nude-primary: #b88c72;
+  --nude-dark: #4a372f;
+  --nude-border: #dfcfc2;
+  --nude-light: #efe2d7;
+}
+
+body {
+  margin: 0;
+  background-color: var(--nude-bg);
+  color: var(--nude-dark);
+  font-family: Arial, Helvetica, sans-serif;
+}
